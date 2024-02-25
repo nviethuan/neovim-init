@@ -30,6 +30,7 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'morhetz/gruvbox'
 Plugin 'neoclide/coc.nvim', {'branch': 'release'}
+Plugin 'eliba2/vim-node-inspect'
 
 set background=dark
 let g:UltiSnipsExpandTrigger="<tab>"
