@@ -37,3 +37,4 @@ let g:UltiSnipsJumpForwardTrigger="<c-b>"
 let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 let g:UltiSnipsEditSplit="vertical"
 let g:CommandTPreferredImplementation='lua'
+set autoindent expandtab tabstop=2 shiftwidth=2
